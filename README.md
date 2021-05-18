@@ -1,11 +1,14 @@
 # MachineLearningProject
 
-# Stock prediction project
+Stock prediction project
 
-#Requirements
+##Requirements
 
 -Streamlit
+
 -Pandas
+
 -Keras
+
 -Tensorflow
 
