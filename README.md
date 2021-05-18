@@ -5,7 +5,7 @@ This project was done to experiment with tensorflow and keras libraries.
 
 ### Requirements
 
--[Streamlit]
+-[[Streamlit]]
 
 -Pandas
 
