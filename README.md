@@ -13,3 +13,7 @@ This project was done to experiment with tensorflow and keras libraries.
 
 -Tensorflow
 
+-Scikit-learn
+
+-numpy
+
