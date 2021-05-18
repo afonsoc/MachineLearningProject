@@ -2,7 +2,7 @@
 
 Stock prediction project
 
-##Requirements
+### Requirements
 
 -Streamlit
 
